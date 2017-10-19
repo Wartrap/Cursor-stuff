@@ -1,0 +1,1 @@
+javascript:void(function(){var c=1; var imgs=['rhoTL','7FJ5A','jI8xC','pABcB','vzEmk','1Jd48']; setInterval(function() {c = (c + 1) % 6;document.body.style.cursor = 'url(http://i.imgur.com/'+imgs[c]+'.gif), pointer';}, 120);}());
